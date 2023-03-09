@@ -10,6 +10,7 @@ import "channels"
 
 import "jquery";
 import "./top"
+import "./book"
 
 Rails.start()
 Turbolinks.start()
